@@ -1,0 +1,1 @@
+just run it with python3 macchangerosx.py
